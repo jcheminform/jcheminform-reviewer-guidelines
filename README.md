@@ -1,2 +1,5 @@
-# jcheminform-reviewer-guidelines
-Reviewer Guidelines
+# Reviewer Guidelines
+
+## Article Types
+
+* [Data Note](guidelines/datanode.md)
