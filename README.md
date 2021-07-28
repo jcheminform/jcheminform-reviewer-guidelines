@@ -2,4 +2,4 @@
 
 ## Article Types
 
-* [Data Note](guidelines/datanode.md)
+* [Data Note](guidelines/datanote.md)
